@@ -1,5 +1,4 @@
-# -
-批量下载文件
+#批量下载文件
 
 Config.txt  
 cookie及星球id配置文件  

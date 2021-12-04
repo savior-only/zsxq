@@ -3,7 +3,7 @@
 
 Config.txt  
 cookie及星球id配置文件  
-先在第一行输入cookie，去知识星球f12获取zsxq_access_token=即可
+输入cookie，去知识星球f12获取zsxq_access_token=即可
 
 groupids.exe  
 双击运行获取星球id写入config.txt
